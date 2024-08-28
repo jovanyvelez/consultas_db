@@ -1,0 +1,14 @@
+{
+  "name": "consultas_db",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.1.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.10.0"
+  }
+}
